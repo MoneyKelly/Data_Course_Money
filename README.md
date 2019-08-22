@@ -1,2 +1,2 @@
-# Data_Course_MoneyThis README file contains information about my uploaded 
+# Data_Course_Money
 This README file contains information about my uploaded assignments
